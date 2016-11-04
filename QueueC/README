@@ -1,0 +1,12 @@
+//This program implements a circular queue in C and runs unit test on it.
+
+
+Files Included:
+README
+queue.c
+minunit.h
+Makefile
+
+
+//To both compile and run the program type:
+     "make test"

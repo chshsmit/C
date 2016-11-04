@@ -1,0 +1,13 @@
+//README
+//Conatains all files included and instructions on running program
+
+README
+Makefile
+list.c
+
+//To compile type "make list" or "make all"
+//To run the program type "./list"
+//To run tests on valgrind type "make test"
+
+//This program is an implementation of a linked list in C. The main function 
+//tests the implementation of the list.
